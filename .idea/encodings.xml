@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/java-thread-completablefuture/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-completablefuture/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-daemon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-daemon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-deadlock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-deadlock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-forkjoin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-forkjoin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-future/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-future/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-multi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-multi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-pool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-pool/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-threadlocal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-threadlocal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-virtualthread/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-thread-virtualthread/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
