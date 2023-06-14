@@ -16,6 +16,11 @@
 
 ## 集合
 
+1. java-coll-list:使用List
+2. java-coll-equals:编写equals方法
+3. java-coll-map:使用Map
+4. java-coll-stack:使用Stack
+
 ## IO
 
 1. File对象

@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/java-coll-equals/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-coll-equals/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-coll-list/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-coll-list/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-coll-map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-coll-map/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-coll-stack/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-coll-stack/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-io-copy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-io-copy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-io-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-io-file/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-network-datagram/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-network-datagram/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-network-pop3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-network-pop3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-network-smtp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-network-smtp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-network-socket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-network-socket/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-thread-completablefuture/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-thread-completablefuture/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-thread-daemon/src/main/java" charset="UTF-8" />

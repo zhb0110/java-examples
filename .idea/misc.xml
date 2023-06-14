@@ -15,6 +15,16 @@
         <option value="$PROJECT_DIR$/thread-threadlocal/pom.xml" />
         <option value="$PROJECT_DIR$/java-thread-virtualthread/pom.xml" />
         <option value="$PROJECT_DIR$/java-thread-threadlocal/pom.xml" />
+        <option value="$PROJECT_DIR$/java-io-file/pom.xml" />
+        <option value="$PROJECT_DIR$/java-io-copy/pom.xml" />
+        <option value="$PROJECT_DIR$/java-network-socket/pom.xml" />
+        <option value="$PROJECT_DIR$/java-network-datagram/pom.xml" />
+        <option value="$PROJECT_DIR$/java-network-smtp/pom.xml" />
+        <option value="$PROJECT_DIR$/java-network-pop3/pom.xml" />
+        <option value="$PROJECT_DIR$/java-coll-list/pom.xml" />
+        <option value="$PROJECT_DIR$/java-coll-equals/pom.xml" />
+        <option value="$PROJECT_DIR$/java-coll-map/pom.xml" />
+        <option value="$PROJECT_DIR$/java-coll-stack/pom.xml" />
       </list>
     </option>
   </component>

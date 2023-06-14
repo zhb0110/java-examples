@@ -6,7 +6,7 @@ import java.util.concurrent.Executors;
 public class Main {
     public static void main(String[] args) {
         ExecutorService es = Executors.newFixedThreadPool(4);
-        for (int i = 0; i < 6; i++) {
+        for (int i = 0; i < 6; i++) { // TODO:超过4个了，由于是固定的，所以不会增加新线程，有两个线程会等待
             es.submit(new Task("" + i));
         }
         es.shutdown();

@@ -5,7 +5,11 @@ public class Main {
         System.out.println("Hello world!");
 
 
+        // TODO:在每个线程中执行的输出，在打印后发现是没有规律的，因为是操作系统来执行，不可认为操纵。
+
+        // 启动子线程1
         new Thread1().start();
+        // 启动子线程2
         new Thread2().start();
         for (int i = 0; i < 100; i++) {
             System.out.println("main: running...");
